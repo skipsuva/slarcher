@@ -1,4 +1,4 @@
-defmodule Slarcher.PageView do
+defmodule Slarcher.CharacterView do
   use Slarcher.Web, :view
 
   def make_loud(var) do
